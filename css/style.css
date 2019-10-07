@@ -36,3 +36,11 @@ body{
 .img-servicos {
   width: 85%;
 }
+.servicos{
+  color: black;
+  background-color:white;
+}
+.bg-footer {
+  color: white;
+  background-color: black;
+}
