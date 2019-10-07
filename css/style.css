@@ -1,11 +1,27 @@
+body{
+
+  font: 20px Arial, sans-serif;  
+}
 .navbar {
   background-color: #298A08;
 }
 .quem-somos {
-
+  color: white;
   background-color: dodgerblue;
 }
 .margin {
-  padding-top: 30px;
-
+  padding-top: 10px;
+  padding-bottom: 50px;
+}
+.parceiros{
+  color: white;
+  background-color: purple;
+}
+.img-parceiros-grandes {
+  margin-bottom: 30px;
+  width: 50%;
+}
+.img-parceiros-pequenos {
+  margin-bottom: 30px;
+  width: 100%;
 }
