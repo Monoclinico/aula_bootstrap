@@ -3,7 +3,15 @@ body{
   font: 20px Arial, sans-serif;  
 }
 .navbar {
-  background-color: #298A08;
+  background-color:forestgreen;
+}
+.link-white{
+  color: white;
+}
+.link-white:hover{
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+  -moz-text-decoration-color: white;
 }
 .quem-somos {
   color: white;
@@ -27,5 +35,4 @@ body{
 }
 .img-servicos {
   width: 85%;
-  
 }
